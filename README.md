@@ -30,4 +30,6 @@ python --version
 ```
 ### 2. Install the tool
 ```
-git
+git clone https://github.com/niranjanmishra004/Video-downloader.git
+```
+
