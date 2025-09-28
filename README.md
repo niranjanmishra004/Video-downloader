@@ -43,5 +43,6 @@ cd Video-downloader
 
 now use python
 ```
-
+python3 downloader.py
+```
 
