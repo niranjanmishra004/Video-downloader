@@ -28,8 +28,20 @@ To verify installation, open terminal / command prompt and run:
 ```
 python --version
 ```
-### 2. Install the tool
+### 2. Install yt-dlp 
+```
+apt install python3 yt-dlp
+```
+### 3. Install the tool
 ```
 git clone https://github.com/niranjanmishra004/Video-downloader.git
 ```
+Now go the folder
+```
+cd Video-downloader
+```
+
+now use python
+```
+
 
