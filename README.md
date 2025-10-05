@@ -23,15 +23,21 @@ Follow these steps and be sure to be a root user:
 ```
 apt install python3
 ```
-
 To verify installation, open terminal / command prompt and run:
 ```
 python --version
 ```
+---
 ### 2. Install yt-dlp 
 ```
 apt install python3 yt-dlp
 ```
+
+*For Windows user*
+```
+pip install yt-dlp
+```
+---
 ### 3. Install the tool
 ```
 git clone https://github.com/niranjanmishra004/Video-downloader.git
